@@ -11,7 +11,7 @@ public class hello {
 
   public static void main(String args[])
   {
-    int num1=10;
+    int num1=20;
     int num2=30;
 
     calculator cal=new calculator();         //calculator is a type
